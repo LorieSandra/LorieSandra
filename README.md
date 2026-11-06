@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Lorie Sandra · Actuaire · Mathématiques, statistiques et nouvelles technologies" width="100%" />
+  <img src="banner.png" alt="Lorie Sandra · Actuaire · Mathématiques, statistiques et nouvelles technologies" width="100%" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="assets/apropos.png" alt="01 · À propos" width="100%" />
+<img src="apropos.png" alt="01 · À propos" width="100%" />
 
 Je suis **Lorie Sandra**, diplômée d'un **Master en Actuariat** de l'Institut du Risque et de l'Assurance (Le Mans Université), où j'ai étudié les mathématiques appliquées, les probabilités et les statistiques au service de la mesure du risque.
 
@@ -27,7 +27,7 @@ Mes notebooks sont perfectibles, et c'est tout l'intérêt de la démarche. Si t
 
 <br/>
 
-<img src="assets/domaines.png" alt="02 · Domaines d'intérêt" width="100%" />
+<img src="domaines.png" alt="02 · Domaines d'intérêt" width="100%" />
 
 | Domaine | Ce qui m'anime | Où j'en suis |
 |---|---|:-:|
@@ -39,7 +39,7 @@ Mes notebooks sont perfectibles, et c'est tout l'intérêt de la démarche. Si t
 
 <br/>
 
-<img src="assets/outils.png" alt="03 · Technologies et outils" width="100%" />
+<img src="outils.png" alt="03 · Technologies et outils" width="100%" />
 
 <!-- ✏️ Ajuste ce tableau à ton niveau réel : déplace un outil de « En apprentissage » vers « Pratiqué » dès que tu l'as utilisé dans un projet publié. -->
 
@@ -53,7 +53,7 @@ Mes notebooks sont perfectibles, et c'est tout l'intérêt de la démarche. Si t
 
 <br/>
 
-<img src="assets/projets.png" alt="04 · Projets" width="100%" />
+<img src="projets.png" alt="04 · Projets" width="100%" />
 
 > 🔭 **Mon premier projet est en cours de construction.** Il apparaîtra ici dès sa publication, avec son notebook Python, son script R et une analyse commentée.
 
@@ -77,7 +77,7 @@ Mes notebooks sont perfectibles, et c'est tout l'intérêt de la démarche. Si t
 
 <br/>
 
-<img src="assets/feuille-de-route.png" alt="05 · Feuille de route" width="100%" />
+<img src="feuille-de-route.png" alt="05 · Feuille de route" width="100%" />
 
 Les projets que je prépare, dans l'ordre où je compte les réaliser. Clique sur un projet pour le détail.
 
@@ -174,7 +174,7 @@ Les projets que je prépare, dans l'ordre où je compte les réaliser. Clique su
 
 <br/>
 
-<img src="assets/activite.png" alt="06 · Activité GitHub" width="100%" />
+<img src="activite.png" alt="06 · Activité GitHub" width="100%" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LorieSandra&show_icons=true&include_all_commits=true&locale=fr&hide_border=true&border_radius=14&bg_color=0A0F33&title_color=38E1F5&icon_color=8B5CF6&text_color=C9D0F5" alt="Statistiques GitHub" height="170" />
@@ -194,7 +194,7 @@ Les projets que je prépare, dans l'ordre où je compte les réaliser. Clique su
 
 <br/>
 
-<img src="assets/contact.png" alt="07 · Me contacter" width="100%" />
+<img src="contact.png" alt="07 · Me contacter" width="100%" />
 
 Une remarque sur un notebook, une piste d'amélioration, une idée de projet ? Les échanges sont les bienvenus.
 
