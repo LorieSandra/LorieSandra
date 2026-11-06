@@ -3,10 +3,11 @@ Je suis **actuaire junior**, passée par le Master Actuariat de l'Institut du Ri
 
 Aujourd'hui, je me forme **en autodidacte** à la data science appliquée à l'actuariat et à la finance : machine learning, deep learning, et maintenant les LLM. Je me forme en pratiquant, à partir des données et des ressources gratuites de Kaggle. Chaque projet sera pour le moment réalisé **en Python et en R**.
 
-🌱 **Je suis là pour apprendre.** Mes notebooks ne sont pas parfaits, et c'est un peu le but : si tu vois une erreur, une meilleure méthode, ou si tu as simplement un conseil, **tes avis sont les bienvenus** ! Ouvre une *issue* sur le projet concerné ou écris-moi directement.
+🌱 **Je suis là pour apprendre.** Mes notebooks sont perfectibles, et c'est justement l'objectif de cette démarche : expérimenter, apprendre de mes erreurs et améliorer continuellement ma pratique. Si tu repères une erreur, une piste d'amélioration ou une autre approche à explorer, tes remarques et suggestions sont les bienvenues !
+
+N'hésite pas à ouvrir une issue sur le projet concerné ou à me contacter directement. Chaque retour constructif sera une occasion d'apprendre !
 
 ---
-
 #### 🚧 Projets
 
 | Projet | Ce que je compte faire| Langages | Statut |
