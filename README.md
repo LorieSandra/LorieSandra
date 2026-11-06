@@ -9,7 +9,7 @@ Aujourd'hui, je me forme **en autodidacte** à la data science appliquée à l'a
 
 #### 🚧 Projets
 
-| Projet | Ce que je fais | Langages | Statut |
+| Projet | Ce que je compte faire| Langages | Statut |
 |---|---|:-:|:-:|
 | [Frais médicaux](#) | EDA, régression, random forest | Python · R | 🔜 |
 | [Tarification auto (freMTPL2)](#) | Fréquence et sévérité : GLM Poisson/Gamma vs GBM, prime pure, SHAP | Python · R | 🔜 |
@@ -19,6 +19,5 @@ Aujourd'hui, je me forme **en autodidacte** à la data science appliquée à l'a
 | [Deep learning en tarification](#) | Réseaux de neurones, embeddings, CANN | Python · R | 🔜 |
 | [NLP sur des avis d'assurés](#) | TF-IDF, CamemBERT, LLM | Python · R | 🔜 |
 | [Assistant actuariel RAG](#) | LLM et recherche documentaire | Python | 🔜 |
-| [Prime dynamique en assurance emprunteur](#) | Méthodologie de mon mémoire, sur données simulées | Python · R | 🔜 |
 
 *Légende : ✅ terminé · 🔄 en cours · 🔜 à venir*
